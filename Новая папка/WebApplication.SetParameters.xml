@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <setParameter name="IIS Web Application Name" value="aacolb.ru" />
-  <setParameter name="LibraryConnectionString-Web.config Connection String" value="Data Source=DESKTOP-5HD82M0;Initial Catalog=Library;Integrated Security=True" />
-</parameters>
